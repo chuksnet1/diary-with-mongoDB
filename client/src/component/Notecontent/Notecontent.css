@@ -1,0 +1,20 @@
+.container{
+    height: 10rem;
+    width: 15rem;
+    box-shadow: 5px 5px 15px 5px #000000;
+    background: rgb(179, 200, 213);
+    margin: 1rem;
+    word-wrap: break-word;
+    float: left;
+    border-radius: 8px;
+    
+}
+
+.container>p{
+    font-style: italic;
+    font-weight: 800;
+    margin: 10px;
+    word-wrap: break-word;
+    cursor: pointer;
+}
+
